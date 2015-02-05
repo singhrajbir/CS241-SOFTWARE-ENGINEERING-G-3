@@ -1,2 +1,2 @@
-# CS241-SOFTWARE-ENGINEERING-G-3
-IIT Patna Automation System ,spring Semester software lab project 
+# CS241-SOFTWARE-ENGINEERING-G3
+IIT Patna Automation System ,Spring Semester Software lab project 
